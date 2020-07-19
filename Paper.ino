@@ -1,5 +1,3 @@
-#include <Arduino.h>
-
 //Variables Globales
 String fecha;
 
