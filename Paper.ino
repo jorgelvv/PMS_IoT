@@ -16,8 +16,8 @@ int led = 2;
 //Wifi
 #include <WiFi.h>
 #include <HTTPClient.h>
-const char* ssid     = "Totalplay-EE9F";
-const char* password = "EE9FD898KVS4FQBz";
+const char* ssid     = "Red_Wifi";
+const char* password = "Clave_Wifi";
 
 //MySQL
 #include <HTTPClient.h>
