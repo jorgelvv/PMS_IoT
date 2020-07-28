@@ -1,4 +1,9 @@
 <?php
+//Este código esta basado en un proyecto de Rui Santos de la pagina https://RandomNerdTutorials.com
+
+// Permission is hereby granted, free of charge, to any person obtaining a copy
+//  of this software and associated documentation files.
+
 $servername = "localhost";
 
 // REPLACE with your Database name
